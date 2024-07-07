@@ -1,6 +1,6 @@
 {
   "name": "a3_cours_ugjhbink",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -27,11 +27,6 @@
     "@babel/preset-env": "^7.23.7",
     "babel-jest": "^29.7.0",
     "eslint": "^8.56.0",
-    "release-it": "^17.0.1"
-  },
-  "release-it": {
-    "github": {
-      "release": true
-    }
+    "release-it": "^17.4.1"
   }
 }
